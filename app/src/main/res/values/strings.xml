@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ejemplo AutoCompleteTextView</string>
+    <string name="mens_descripcion">Marcas de surf</string>
+</resources>
